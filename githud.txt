@@ -1,0 +1,18 @@
+https://github.com/Martyriu/ARDUINO
+https://github.com/Martyriu/LIBRERIAS
+https://github.com/Martyriu/PRACTICAS-Y-EXPERIENCIAS
+
+
+https://github.com/Martyriu/PID-para-principiantes
+https://github.com/Martyriu/my-arm-
+https://github.com/Martyriu/my-arm-con-potenciometros
+https://github.com/Martyriu/arduino-chess-clock_
+https://github.com/Martyriu/Reset-automatico
+https://github.com/Martyriu/SLIDER-CON-MOTOR-P-P
+https://github.com/Martyriu/dallas18b20-control
+
+AUTOR: W. M. M. N.
+https://github.com/Martyriu/dallas18b20
+https://github.com/Martyriu/Temporizador-con-relay
+https://github.com/Martyriu/Temporizador-con-relay-game
+https://github.com/Martyriu/Banho-automatizado
